@@ -29,3 +29,5 @@ sass:
 
 plugins:
 - jekyll-feed
+
+url: https://github.com/oiing/jekyll-theme-diary.git
